@@ -61,7 +61,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-Credit: [Sivaprasath](https://github.com/Sivaprasath)
+Credit: [Sivaprasath](https://github.com/sivaprasath2004)
 
 Last Edited on: 10/04/2024
       
