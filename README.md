@@ -45,9 +45,12 @@
 <br>
 
 <h3>Statistical Data 👾</h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sivaprasath2004&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sivaprasath2004&theme=github_dark)
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sivaprasath2004&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    bg_color=#808080/></p>
+    bg_color=#808080 width=350px /></p>
 
 <br>
 
@@ -56,12 +59,28 @@
 
 <br>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivaprasath2004&theme=github_dark)
+
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivaprasath2004&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/></p>
+<br>
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=sivaprasath2004&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<h2>🏆My Github Profile Trophy</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1000 src="https://github-profile-trophy.vercel.app/?username=sivaprasath2004&column=9&no-frame=true" alt="sivaprasath2004" /></a> </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 ## GSSOC(24) Badges 🪶
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -79,6 +98,11 @@
 
 
 Credit: [Sivaprasath](https://github.com/sivaprasath2004)
+ 
 
-Last Edited on: 10/04/2024
-      
+
+
+ 
+
+
+
