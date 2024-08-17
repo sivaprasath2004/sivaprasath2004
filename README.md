@@ -96,7 +96,11 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+![GSSoC24_Stats](https://github.com/user-attachments/assets/d39e9919-3147-4832-970b-458978954b59)
 
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 Credit: [Sivaprasath](https://github.com/sivaprasath2004)
  
 
